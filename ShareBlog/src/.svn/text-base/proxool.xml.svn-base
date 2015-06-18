@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<something-else-entirely>
+	<use-proxool>xml-conference</use-proxool>
+
+	<model>1</model>
+	<proxool>
+
+		<alias>xml-conference</alias>
+
+		<driver-url>
+			jdbc:sqlserver://127.0.0.1:1433;DatabaseName=OpenBlog
+		</driver-url>
+
+		<driver-class>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver-class>
+
+		<driver-properties>
+			<property name="user" value="sa" />
+			<property name="password" value="sa" />
+		</driver-properties>
+
+		<minimum-connection-count>5</minimum-connection-count>
+
+		<maximum-connection-count>10</maximum-connection-count>
+
+		<maximum-active-time>60000</maximum-active-time>
+		<statistics>10s,5m</statistics>
+		<house-keeping-test-sql>
+			select CURRENT_DATE()
+		</house-keeping-test-sql>
+	</proxool>
+</something-else-entirely>

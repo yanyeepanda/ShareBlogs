@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ShareBlog"
+  id="myeclipse.1322996068827"
+  context-root="/ShareBlog"
+  j2ee-spec="5.0"
+  archive="ShareBlog.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

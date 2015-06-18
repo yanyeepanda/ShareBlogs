@@ -1,0 +1,6 @@
+.userText {
+	border: 1px solid red;
+	background-image: url(../images/userVerify.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}

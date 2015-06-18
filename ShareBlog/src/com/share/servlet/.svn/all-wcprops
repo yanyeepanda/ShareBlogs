@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ShareBlog/!svn/ver/18/src/com/share/servlet
+END
+MovieServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ShareBlog/!svn/ver/20/src/com/share/servlet/MovieServlet.java
+END
+CommentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ShareBlog/!svn/ver/20/src/com/share/servlet/CommentServlet.java
+END
+ArticleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ShareBlog/!svn/ver/20/src/com/share/servlet/ArticleServlet.java
+END
+AddUserServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ShareBlog/!svn/ver/13/src/com/share/servlet/AddUserServlet.java
+END
+UserLoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ShareBlog/!svn/ver/13/src/com/share/servlet/UserLoginServlet.java
+END
